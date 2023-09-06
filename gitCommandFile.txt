@@ -1,0 +1,15 @@
+echo "# react-quiz" >> README.md
+git init
+git add README.md
+git commit -m "Chapter 16: The Advanced useReducer Hook>> Lecture 2: Yet Another Hook useReducer"
+git branch -M main
+git remote add origin https://github.com/Muhammad-Sabbir/react-quiz.git
+git push -u origin main
+
+
+
+git add --all
+git commit -m "Chapter 16: The Advanced useReducer Hook>> Lecture 2: Yet Another Hook useReducer"
+git push -u origin main
+
+
