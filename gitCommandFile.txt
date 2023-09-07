@@ -9,7 +9,7 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 16: The Advanced useReducer Hook>> Lecture 5: The React Quiz App"
+git commit -m "Chapter 16: The Advanced useReducer Hook>> Lecture 6: Loading Questions from a Fake API"
 git push -u origin main
 
 
