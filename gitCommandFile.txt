@@ -9,7 +9,7 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 16: The Advanced useReducer Hook>> Lecture 14: Restarting a Quiz"
+git commit -m "Chapter 16: The Advanced useReducer Hook>> Lecture 15: Setting Up a Timer With useEffect"
 git push -u origin main
 
 
