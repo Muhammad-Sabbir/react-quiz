@@ -9,7 +9,7 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 16: The Advanced useReducer Hook>> Lecture 10: Handling New Answers"
+git commit -m "Chapter 16: The Advanced useReducer Hook>> Lecture 11: Moving to the Next Question"
 git push -u origin main
 
 
